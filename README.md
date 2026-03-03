@@ -1,4 +1,4 @@
-# Sistema de Gestão de Loja
+# Sistema de gestão de loja
 
 Projeto desenvolvido para automatizar o processo de vendas de uma loja física, substituindo controles manuais por um sistema digital.
 
@@ -19,7 +19,7 @@ Digitalizar e organizar os processos de:
 - Estrutura orientada a objetos
 - Futuramente: API Web e Banco de Dados
 
-##  Estrutura do Projeto
+##  Estrutura do projeto
 
 Em desenvolvimento.
 
